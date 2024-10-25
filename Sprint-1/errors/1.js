@@ -2,4 +2,5 @@
 
 const age = 33;
 age = age + 1;
-// This will give uncaught TypeError because const variable can not be reassigned.
+
+// This will return uncaught TypeError because const variable can not be reassigned.
